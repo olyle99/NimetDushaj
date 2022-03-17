@@ -99,7 +99,7 @@ http://185.204.32.4:9981/stream/channelid/107779299?ticket=029122B98B03E96AFEC37
 http://185.204.32.4:9981/stream/channelid/321131333?ticket=49D090B1C8452660C1C7B4297490F397E5A1791E&profile=pass|User-Agent=MX Player
 #EXTINF:-1 group-title="[AL]KOMBETARE[HD]" tvg-logo="https://i.imgur.com/9CeQ9qD.png",[$]ABC NEWS HD
 http://185.204.32.4:9981/stream/channelid/1489072505?ticket=9B2EED4F8EC474F5D47164CE0510E31030A3CF05&profile=pass|User-Agent=MX Player
-#EXTINF:-1 group-title="[AL]KOMBETARE[HD]" tvg-logo="https://i.imgur.com/5mFfW0Q.png",[$]SCAN HD
+#EXTINF:-1 group-title="[AL]KOMBETARE[HD]" tvg-logo="https://i.imgur.com/5mFfW0Q.png",[$]SCAN HD 
 http://185.204.32.4:9981/stream/channelid/1141394393?ticket=3B00F79E8C38D239C5EEAC649EBEDF969707886D&profile=pass|User-Agent=MX Player
 #EXTINF:-1 group-title="[AL]KOMBETARE[HD]" tvg-logo="https://i.imgur.com/suUuXhY.png",[$]REPORT-TV HD
 http://185.204.32.4:9981/stream/channelid/1402941874?ticket=42F9F4F28200B9662117800F2BDAFAE4A4CCE929&profile=pass|User-Agent=MX Player
