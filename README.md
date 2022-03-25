@@ -3972,7 +3972,7 @@ http://135.181.178.91/vmedia_live/2/mono.m3u8
 #EXTINF:0 group-title="[TL]SPORTE TAJLANDEZE" tvg-logo="https://i.imgur.com/X4VeaQH.png",[$]VIVARO ARENA HD
 http://135.181.178.91/vmedia_live/3/mono.m3u8
 #EXTINF:0 group-title="[TL]SPORTE TAJLANDEZE" tvg-logo="https://i.imgur.com/fmpZvni.png",[$]SBS SPORTS HD
-http://ye23.win/iptv/sbs5.1.php?id=S02
+http://ye23.win/iptv/sbs5.1.php?id=S02 
 
 #EXTINF:-1 group-title="[AL]SERIALE(HUMORI)" tvg-logo="https://tinyurl.com/qeshualb",======================
 https://tinyurl.com/qeshualb?
